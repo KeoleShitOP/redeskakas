@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+   }
+   
+   header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+   }
+   
+   main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   }
+   
+   .redes-sociales {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+   
+   .redes-sociales img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+   }
+   
+   .redes-sociales a {
+    text-decoration: none;
+    color: #337ab7;
+   }
+   
+   .redes-sociales a:hover {
+    color: #23527c;
+   }
+
+   .contacto {
+    text-align: center;
+  }
+  
+  .contacto a {
+    text-decoration: none;
+    color: #337ab7;
+  }
+   
+   footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+   }
